@@ -26,3 +26,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Getting started::
+```
+I started by creating the express server.js, Once I had everything linked properly I tested node server.js, all seems to work well.
+
+```
