@@ -30,5 +30,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Getting started::
 ```
 I started by creating the express server.js, Once I had everything linked properly I tested node server.js, all seems to work well.
+I added functionality to saving notes on the right column. I added routes for the API to create store and delete notes.
 
 ```
